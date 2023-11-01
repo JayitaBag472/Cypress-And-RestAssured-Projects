@@ -1,7 +1,7 @@
 # HealthRhythms
 ****API and WEB Assignment****
 
-***WEB TASK SETUP***
+***WEB TASK SETUP*** **E2ERetailFlow**
 
 In order to run this project follow these simple steps:
 
