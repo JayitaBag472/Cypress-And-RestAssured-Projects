@@ -1,4 +1,4 @@
-# HealthRhythms
+# Cypress And Rest Assured Projects
 ****API and WEB Assignment****
 
 ***WEB TASK SETUP*** **E2ERetailFlow**
